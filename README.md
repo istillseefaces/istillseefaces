@@ -14,7 +14,7 @@ ayorair@gmail.com
 
 ## STACK:
 
-[![My Skills](https://skillicons.dev/icons?i=react,sql,ts,js,cpp,scss,gitlab,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,cpp,scss,gitlab,git)](https://skillicons.dev)
 
 
 
